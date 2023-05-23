@@ -16,6 +16,9 @@ body {
 	padding-left: 5%;
 	padding-right: 5%;
 	border-radius: 3%;
+	border: 5px;
+	border-style: solid;
+	border-color: #217cc2;
 }
 
 
