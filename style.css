@@ -1,6 +1,6 @@
 
 body {	
-	background-color: #5a4a63;
+	background-color: #a50bd9; <!-- #5a4a63; -->
 	color: #c5c8c6;
 	font-family: "Lucida Console", monospace;
 }
@@ -8,7 +8,7 @@ body {
 
 #body-div {
 	font-weight: bold;
-	background-color: #a50bd9; <!-- #1d1f21; -->
+	background-color: #1d1f21;
 	margin-left: 20%;
 	margin-right: 20%;
 	padding-top: 50px;
